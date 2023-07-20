@@ -1,6 +1,6 @@
-//  NQ Detect
+//  Object Detection
 //
-//  Created by NULL on 10/9/22.
+//  Created by Andrew Vittiglio on 9/8/22.
 //
 
 import AVFoundation
